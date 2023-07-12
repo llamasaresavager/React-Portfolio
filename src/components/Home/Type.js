@@ -6,7 +6,7 @@ function Type() {
   return (
     <div style={{height:100, width:"100%"}}>
       <span>
-        Targeting technical position at a nonprofit with international reach!
+        Targeting technical position at companies dedicated to having a positive impact!
       </span>
 
       <Carousel nextIcon="" nextLabel="" prevLabel="" prevIcon="" style={{height:100}}>
