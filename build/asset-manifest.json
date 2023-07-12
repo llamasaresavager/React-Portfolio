@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.f7f6979d.css",
-    "main.js": "/React-Portfolio/static/js/main.f9ffb2dd.js",
+    "main.js": "/React-Portfolio/static/js/main.36b51bf3.js",
     "static/js/415.4d6acbeb.chunk.js": "/React-Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/homemade.png": "/React-Portfolio/static/media/homemade.4e9c5e7074a8a885fe23.png",
+    "static/media/resume.pdf": "/React-Portfolio/static/media/resume.5442644bb762997faaa1.pdf",
     "static/media/sumitup.png": "/React-Portfolio/static/media/sumitup.5beb608d1eff31bed41f.png",
     "static/media/small-buisness-accounting.png": "/React-Portfolio/static/media/small-buisness-accounting.81703c6ef8d05ee47998.png",
-    "static/media/trevor_hilimire_resume3.pdf": "/React-Portfolio/static/media/trevor_hilimire_resume3.16eda86e02353185bb58.pdf",
     "static/media/home-main.svg": "/React-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/React-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/home-bg.jpg": "/React-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
@@ -15,12 +15,12 @@
     "static/media/pre.svg": "/React-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/React-Portfolio/index.html",
     "main.f7f6979d.css.map": "/React-Portfolio/static/css/main.f7f6979d.css.map",
-    "main.f9ffb2dd.js.map": "/React-Portfolio/static/js/main.f9ffb2dd.js.map",
+    "main.36b51bf3.js.map": "/React-Portfolio/static/js/main.36b51bf3.js.map",
     "415.4d6acbeb.chunk.js.map": "/React-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f7f6979d.css",
-    "static/js/main.f9ffb2dd.js"
+    "static/js/main.36b51bf3.js"
   ]
 }
