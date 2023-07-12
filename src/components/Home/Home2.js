@@ -19,37 +19,31 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Programmer, Data Analyist, Tinkerer, with extensive customer service experience.
+              I am an experienced Programmer and Data Analyst with a strong background in customer service.
               <br />
-              <br />IoT to Full Stack:
+              <br />
+              I specialize in Full Stack development, proficient in
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple"> Python, JavaScript - including Next.js and React Native - , and C#. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Data Anaylsis and Natural Launguage Processing.
-                </b>
-              </i>
+              My primary focus is on building innovative web technologies and products, particularly in the areas of 
+                <i>
+                  <b className="purple"> Data Analysis and Natural Language Processing.</b>
+                </i>
               <br />
               <br />
-              Seeking a position to merge my IoT and Full Stack development skills, <b className="purple">Arduino</b> and
+              I am actively seeking a position that allows me to utilize my 
               <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Express.js</b>
-              </i>
+                  <b className="purple"> Full Stack Development</b>
+                </i> skills. Combining my experience with modern frameworks and dedication to creating 
+                <i>
+                  <b className="purple"> Socially Impactful Solutions</b>
+                </i> drives my passion for contributing to projects that make a difference in people's lives.
             </p>
           </Col>
+
           <Col md={4} className="myAvtar">
             <Tilt>
               <img src={myImg} className="img-fluid" alt="avatar" />
@@ -65,7 +59,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/trv893"
+                  href="https://github.com/llamasaresavager "
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
