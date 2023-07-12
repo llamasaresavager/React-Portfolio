@@ -2,11 +2,8 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
 import homemade from "../../Assets/Projects/homemade.png";
 import smallBuisnessAccounting  from "../../Assets/Projects/small-buisness-accounting.png";
-import suicide from "../../Assets/Projects/suicide.png";
 import sumItUp from "../../Assets/Projects/sumitup.png";
 
 function Projects() {
@@ -17,9 +14,9 @@ function Projects() {
         <h1 className="project-heading">
           My Recent <strong className="purple">Works </strong>
         </h1>
-        <p style={{ color: "white" }}>
-          Here are a few projects I've worked on recently.
-        </p>
+        <h4 style={{ color: "white" }}>
+          UPDATES COMING SOON!!!
+        </h4>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard

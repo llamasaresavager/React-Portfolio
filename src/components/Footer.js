@@ -2,10 +2,9 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import { FaLinkedinIn, FaDiscord } from "react-icons/fa";
 
 function Footer() {
   let date = new Date();
@@ -33,16 +32,6 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="#"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <AiOutlineTwitter />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
                 href="https://www.linkedin.com/in/trevorhilimire/"
                 style={{ color: "white" }}
                 target="_blank" 
@@ -59,6 +48,16 @@ function Footer() {
                 rel="noopener noreferrer"
               >
                 <AiFillInstagram />
+              </a>
+            </li>
+            <li className="social-icons">
+              <a
+                href="https://discordapp.com/users/llamasaresavager/"
+                style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                <FaDiscord />
               </a>
             </li>
           </ul>
