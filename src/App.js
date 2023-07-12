@@ -35,11 +35,10 @@ function App() {
         <Navbar />
         <ScrollToTop />
         <Routes>
-          {/* <Route path="/" element={<Home />} /> */}
-          
-          <Route path="/project" element={<Projects />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/resume" element={<Resume />} />
+          <Route path="/React-Portfolio" element={<Home />} />
+          <Route path="/React-Portfolio/project" element={<Projects />} />
+          <Route path="/React-Portfolio/about" element={<About />} />
+          <Route path="/React-Portfolio/resume" element={<Resume />} />
           <Route path="*" element={<Home />} />
         </Routes>
         <Footer />
