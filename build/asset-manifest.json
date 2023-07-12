@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.d65e46b5.css",
+    "main.js": "/React-Portfolio/static/js/main.b4624467.js",
+    "static/js/415.4d6acbeb.chunk.js": "/React-Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/homemade.png": "/React-Portfolio/static/media/homemade.4e9c5e7074a8a885fe23.png",
+    "static/media/leaf.png": "/React-Portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/React-Portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/React-Portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/sumitup.png": "/React-Portfolio/static/media/sumitup.5beb608d1eff31bed41f.png",
+    "static/media/small-buisness-accounting.png": "/React-Portfolio/static/media/small-buisness-accounting.81703c6ef8d05ee47998.png",
+    "static/media/home-main.svg": "/React-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/React-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/trevor_resume.pdf": "/React-Portfolio/static/media/trevor_resume.0b1f9d4a53225b930637.pdf",
+    "static/media/home-bg.jpg": "/React-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/React-Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/React-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.d65e46b5.css.map": "/React-Portfolio/static/css/main.d65e46b5.css.map",
+    "main.b4624467.js.map": "/React-Portfolio/static/js/main.b4624467.js.map",
+    "415.4d6acbeb.chunk.js.map": "/React-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d65e46b5.css",
+    "static/js/main.b4624467.js"
+  ]
+}
