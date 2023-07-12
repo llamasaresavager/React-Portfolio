@@ -8,6 +8,11 @@ function Github() {
       <h1 className="project-heading" style={{ paddingBottom: "20px" }}>
         Days I <strong className="purple">Code</strong>
       </h1>
+      <br />
+      <br />
+      <h3>Please note that I have trasitioned away from the account below to a private Azure account</h3>
+      <br />
+      <br />
       <GitHubCalendar
         username="trv893"
         blockSize={15}
